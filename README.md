@@ -1,6 +1,6 @@
 Automatic Gap Cover Mechanism:
 This prototype demonstrates the motor-driven mechanism designed to automatically extend and retract the platform gap cover based on train arrival and departure conditions
-<img width="600" height="729" alt="image" src="https://github.com/user-attachments/assets/126c636c-210f-45b4-bfa2-2e85e4d3c735" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/126c636c-210f-45b4-bfa2-2e85e4d3c735" />
 
 Passenger Alert System:
 This image demonstrates the alert mechanism that provides a warning when unsafe passenger movement or safety-line crossing is detected near the platform edge.
